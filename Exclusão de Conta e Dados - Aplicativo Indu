@@ -1,0 +1,15 @@
+Como solicitar a exclusão: Para excluir sua conta no Indu, você tem duas opções:
+
+Pelo Aplicativo: Acesse seu perfil, clique em "Configurações", selecione "Excluir Conta", insira sua senha de confirmação e confirme a operação.
+
+Pela Web (Solicitação manual): Caso não tenha mais acesso ao app, envie um e-mail para [seu-email-aqui] solicitando a exclusão.
+
+2. O que será excluído: Ao confirmar a exclusão, os seguintes dados serão removidos permanentemente do nosso banco de dados (Supabase):
+
+Informações de perfil (E-mail, Nome e Senha).
+
+Registros de estabelecimentos e promoções cadastradas.
+
+Histórico de localização associado à conta.
+
+3. Período de armazenamento: A exclusão é processada imediatamente após a confirmação da senha no aplicativo.
